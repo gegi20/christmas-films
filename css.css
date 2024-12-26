@@ -1,0 +1,96 @@
+body{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.დივი1{
+    background-color: rgb(9, 235, 9);
+    height: 800px;
+    width: 800px;
+    border-radius: 20px;
+    border: 5px solid black;
+   
+}
+h1{
+    margin-left: 250px;
+    text-decoration: underline;
+}
+.სპან1{
+    color: red;
+}
+.სპან2{
+    color: green;
+}
+.სპან3{
+color: red;
+}
+.სპან4{
+color: green;
+}
+.პარაგრაფი1{
+    margin-left: 250px;
+    font-size: 20px;
+    color:red;
+
+
+}
+ol{
+    font-size: 30px;
+    margin-left: 20px;
+
+}
+.დივი4{
+    display: flex;
+    text-decoration: underline;
+    
+}
+.დივი3{
+    margin-top: 35px;
+    
+   
+}
+button{
+    width: 200px;
+    height: 25px;
+    background-color: red;
+
+   
+}
+.b2{
+    margin-top: 10px;
+}
+.b3{
+    margin-top: 10px;
+}
+.b4{
+    margin-top: 10px;
+}
+.b5{
+    margin-top: 7px;
+}
+.b6{
+    margin-top: 8px;
+}
+.b7{
+    margin-top: 7px;
+}
+.b8{
+    margin-top: 10px;
+}
+.b9{
+    margin-top: 10px;
+}
+.b10{
+    margin-top: 11px;
+}
+.b11{
+    margin-top: 10px;
+}
+.b12{
+    margin-top: 10px;
+}
+.დივი6{
+    display: flex;
+}
